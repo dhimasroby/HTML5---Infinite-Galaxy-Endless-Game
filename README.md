@@ -1,3 +1,5 @@
+<img src="https://github.com/dhimazroby/infiniteGalaxy/blob/master/img/logo-01.png?raw=true"/>
+<br>
 <h2>About Game</h2>
 <p> “INFINITE GALAXY” merupakan game bertemakan Arcade dimana kita berperan sebagai robot di luar angkasa yang sedang tersesat. Diceritakan sebuah robot yang ditugaskan ke luar angkasa mengalami masalah pada roketnya, sehingga dia terdampar di suatu galaxy yang tidak diketahui tanpa komunikasi.</p>
 <h2>Gameplay</h2>
